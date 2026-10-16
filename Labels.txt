@@ -406,6 +406,7 @@ fathom
 favro
 fellow
 ffmpegmartinriedl
+ffprobemartinriedl
 fiddlereverywhere
 fierycommandworkstation
 figma
@@ -689,6 +690,7 @@ lowprofile
 lsagent
 ltspice
 lucidlink
+lucidlink3
 lucifer
 lulu
 lunadisplay
@@ -778,6 +780,7 @@ microsoftteamsnew
 microsoftteamsreset
 microsoftvisualstudiocode
 microsoftwindowsapp
+microsoftwindowsappbeta
 microsoftword
 microsoftwordreset
 midimonitor
@@ -788,6 +791,7 @@ miniconda
 minisim
 miro
 missive
+missiveapp
 mist
 mist-cli
 mixxx
@@ -980,7 +984,6 @@ rawtherapee
 raycast
 realvncondemandassist
 realvncserver
-realvncviewer
 reaper
 rectangle
 redcanarymacmonitor
@@ -1111,6 +1114,7 @@ stackfield
 starface10x
 starface90x
 starface91x
+stats
 stats
 steelseriesengine
 steinbergactivationmanager
