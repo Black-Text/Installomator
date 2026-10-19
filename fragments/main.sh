@@ -233,6 +233,16 @@ if [[ -n $appNewVersion ]]; then
             printlog "DEBUG mode 1 enabled, not exiting, but there is no new version of app." WARN
         fi
     fi
+    # Black Text: never replace a newer installed version with an older one. The check
+    # above only tests for equality, so when a label's version feed lags the app's own
+    # updater (Figma's RELEASE.json, Chocolatey for Google Drive) Installomator would
+    # downgrade the app, and then fight its updater on every run. INSTALL=force still
+    # installs whatever the feed offers.
+    if [[ -n $appversion && $appversion != $appNewVersion && $INSTALL != "force" && $DEBUG -ne 1 ]] \
+        && is-at-least "$appNewVersion" "$appversion"; then
+        printlog "Installed version $appversion is newer than $appNewVersion, not downgrading."
+        cleanupAndExit 0 "Installed version is newer." REQ
+    fi
 else
     printlog "Latest version not specified."
 fi
