@@ -30,7 +30,10 @@ export PATH=/usr/bin:/bin:/usr/sbin:/sbin
 # also no actual installation will be performed
 # debug mode 1 will download to the directory the script is run in, but will not check the version
 # debug mode 2 will download to the temp directory, check for blocking processes, check the version, but will not install anything or remove the current version
-DEBUG=1
+# Black Text: 0 here, not upstream's 1. Macs run this raw script (upstream only sets 0 in
+# its pkg), and Baseline calls it without DEBUG, so with 1 every Baseline item "succeeded"
+# without installing anything. Pass DEBUG=1 explicitly when testing a label.
+DEBUG=0
 
 # notify behavior
 NOTIFY=success
