@@ -30,6 +30,7 @@ affinitydesigner2
 affinityphoto2
 affinitypublisher2
 aftermath
+agencybrain
 aircall
 airflow
 airserver
