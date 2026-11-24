@@ -4,6 +4,7 @@
 4kvideodownloader
 4kvideodownloaderplus
 8x8
+aapconfigurationhelper
 abetterfinderattributes7
 abetterfinderrename11
 abetterfinderrename12
@@ -34,6 +35,7 @@ agencybrain
 aircall
 airflow
 airserver
+airstats
 airtable
 airtame
 airtamepkg
@@ -110,6 +112,7 @@ automounter
 autopkgr
 avertouch
 aviatrix
+awdlguard
 awscli2
 awsvpnclient
 axurerp10
@@ -119,7 +122,6 @@ backgrounds
 balenaetcher
 balsamiqwireframes
 bambustudio
-bartender
 basecamp3
 baseline
 baseline-nodaemon
@@ -128,6 +130,7 @@ bbedit
 bbeditpkg
 beamstudio
 beekeeperstudio
+beeperdesktop
 betterdisplay
 bettershot
 bettertouchtool
@@ -198,6 +201,7 @@ charles
 chatgpt
 chatgptclassic
 chatwork
+checkpointsase
 chemdoodle
 chemdoodle2d
 chemdoodle3d
@@ -264,11 +268,11 @@ cluefull
 cmake
 cocoapods
 coconutbattery
-code42
 codemeter
 coderunner
 codex
 colourcontrastanalyser
+comfyui
 conductor
 connectfonts
 container
@@ -304,7 +308,6 @@ dcp-o-matic
 dcp-o-matic2
 dcpomatic
 dcpomatic2
-debookee
 decimatorucp
 dedoose
 deepl
@@ -331,6 +334,8 @@ diskdrill
 diskspace
 displaylinkmanager
 docker
+dockersbx
+dockside
 dockutil
 doctolib
 domzilla-caffeine
@@ -383,10 +388,10 @@ emdash
 enpass
 enteauth
 epicgameslauncher
+epidemicsound
 eposconnect
 epsonprintlayout
 escrowbuddy
-eshareosx
 espanso
 etrecheck
 etssecurebrowser
@@ -400,7 +405,6 @@ exifrenamer
 exocharts
 expressvpn
 extensisconnect
-facebookmessenger
 fantastical
 fastscripts
 fathom
@@ -415,6 +419,7 @@ filemakerpro
 filemakerpro20
 filemakerpro21
 filemakerpro22
+filemakerpro26
 filmlab
 finalcutprocontent
 finaldraft11
@@ -451,6 +456,7 @@ freeplane
 front
 fsmonitor
 fujifilmwebcam
+fxfactory
 garminaviationdatabasemanager
 garminbasecamp
 garminexpress
@@ -483,6 +489,7 @@ goland
 golang
 googleadseditor
 googlechrome
+googlechromecanary
 googlechromeenterprise
 googlechromepkg
 googledrive
@@ -511,9 +518,11 @@ guardianbrowser
 guardlydata
 gyazo
 gyazogif
+hammerspoon
 hancock
 handbrake
 handy
+harmonysase
 harper
 hazel
 headlamp
@@ -523,7 +532,6 @@ hmavpn
 homebrew
 homerow
 hoppscotch
-horos
 hot
 houdahspot
 hpclick
@@ -539,6 +547,7 @@ i1profiler
 ibarcoder
 ibmaspera
 ibmasperaconnect
+ibmdatashift
 ibmnotifier
 ice
 icons
@@ -551,6 +560,7 @@ ilok
 imageoptim
 imazing3
 imazingprofileeditor
+incidentio
 inetclearreportsdesigner
 infinitealgebra1
 infinitealgebra2
@@ -573,9 +583,10 @@ ipswupdater
 ipvisionconnect
 iriunwebcam
 isadora
-island
+isixdicomviewer
 istatmenus
 iterm2
+itspaint
 itsycal
 izotopeproductportal
 jabradirect
@@ -639,6 +650,7 @@ keyshot12
 keyshot2024
 keystoreexplorer
 kicad
+kilobat
 kimplusclientmodul
 kiro
 kirocli
@@ -672,6 +684,7 @@ lightburn
 lightkey
 linear
 linearmouse
+littlekeebo
 livereplayer
 lmstudio
 logighub
@@ -702,6 +715,8 @@ macfuse
 macoslaps
 macpass
 macports
+macsfancontrol
+macshot
 mactex
 mactexbasic
 mactexfull
@@ -709,6 +724,7 @@ mactracker
 macusb
 macvector
 magicbullet
+magictoolbox
 magnolia
 mailmate
 mailtooutlook
@@ -726,6 +742,7 @@ maxcycling74
 maxonapp
 maxqda24
 maxqda26
+mdmreportingtool
 mdmwatchdog
 meetingbar
 meistertask
@@ -740,6 +757,7 @@ microsoftazurestorageexplorer
 microsoftcompanyportal
 microsoftdefender
 microsoftdefenderatp
+microsoftdotnetsdk10
 microsoftedge
 microsoftedgebeta
 microsoftedgeconsumerstable
@@ -843,14 +861,13 @@ nexusshell
 nodejs
 nodejslts
 nomachine
-nomad
-nomadlogin
 nordlayer
 nordvpn
 notion
 notioncalendar
 nova
 nps-santa
+npssanta
 npssantafull
 nudge
 nudgesuite
@@ -871,6 +888,7 @@ ollama
 omnidisksweeper
 omnifocus3
 omnifocus4
+omnigent
 omnigraffle6
 omnigraffle7
 omnioutliner5
@@ -892,10 +910,10 @@ openvpnconnect
 openvpnconnectv3
 openworkenterprise
 opera
+operagx
 oraclesqldeveloper
 orbstack
 orcaslicer
-origin
 orion
 orkadesktop
 osquery
@@ -904,6 +922,7 @@ ottomatic
 outputarcade
 outputhub
 outset
+outsystemsservicestudio
 overflow
 overlord
 owncloud
@@ -920,6 +939,7 @@ patchomator
 pcoipclient
 pdfexpert
 pdfsam
+perimeter81
 pgadmin4
 phoenixcode
 pika
@@ -952,6 +972,7 @@ privileges
 privileges2
 processing3
 processing4
+proclaim
 proctortrack
 projectplace
 promiseutility
@@ -959,6 +980,7 @@ promiseutilityr
 proofpointautoupdater
 propresenter7
 protondrive
+protonmail
 protonpass
 protonvpn
 proxyman
@@ -983,12 +1005,17 @@ rancherdesktop
 rapidapi
 rawtherapee
 raycast
+realvncconnect
+realvncconnect8
 realvncondemandassist
 realvncserver
 reaper
+recordist
 rectangle
 redcanarymacmonitor
+redcinexpro
 redgiant
+redisinsight
 redshift
 redshiftlite
 reflector4
@@ -1011,6 +1038,7 @@ ringcentralapp
 ringcentralclassicapp
 ringcentralmeetings
 ringcentralphone
+rive
 riversidestudio
 rocket
 rocketchat
@@ -1043,6 +1071,7 @@ scribus
 scrollreverser
 sdnotary
 sdnotary2
+seconddisplay
 secretive
 selfcontrol
 sequelace
@@ -1056,7 +1085,7 @@ sidekick
 sigil
 signal
 signiantapp
-silentknight
+silentknight3
 silnite
 sipgateclinq
 sirimote
@@ -1113,6 +1142,7 @@ sqlprostudio
 sshfs
 stackfield
 starface10x
+starface11x
 starface90x
 starface91x
 stats
@@ -1127,6 +1157,8 @@ subethaedit
 sublimemerge
 sublimetext
 suitestudio
+sumb
+sunsama
 supercollider
 superhuman
 superwhisper
@@ -1167,7 +1199,6 @@ teamviewerqs
 teamviewerqscustom
 teamwire
 techsmithaudiate
-techsmithcapture
 teladocproviderinstaller
 telegram
 tembo
@@ -1202,6 +1233,7 @@ toonboomharmonypremium2024
 toonboomharmonypremium2025
 toonboomstoryboardpro2024
 toonboomstoryboardpro2025
+toonboomstoryboardpro2027
 topazgigapixel
 topazgigapixelai
 topazphoto
@@ -1252,7 +1284,6 @@ veracrypt
 veracrypt-fuse-t
 veracrypt-macfuse
 vernierspectralanalysis
-vfx
 viennaassistant
 vimcal
 virtualbox
@@ -1269,11 +1300,13 @@ vlc
 vmwarefusion
 vmwarehorizonclient
 vncconnect
+vocevistapro
 vocevistavideopro
 vonagebusiness
 vorssaint
 vpntracker365
 vscodium
+vuescan
 vuescanintel
 vuescanuni
 vysor
