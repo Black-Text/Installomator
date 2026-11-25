@@ -160,6 +160,7 @@ boxdrive
 boxsync
 boxtools
 bracketsio
+brainconnect
 brave
 bravepkg
 brosix
